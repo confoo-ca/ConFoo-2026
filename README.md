@@ -36,25 +36,25 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 
 ## February 26
 
-| Presentation Title | Speaker Name                               | Content                                                                                                 |
-|--------------------|--------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| /^[Rr]eg(ular\s)?[Ee]x(p\|pressions?)?$/ | [Jordan Kasper](https://jordankasper.com/) | [pdf](2026-02-26/Regular_Expressions-Jordan_Kasper.pdf)                                                 |
-| From Zero to Emulator CHIP8 and the Art of Abstraction | David Guida                                | [PDF](2026-02-26/chip8-emulation.pdf)                                                                   |
-| GraphQL Distilled | Kito D. Mann                               | [PDF](https://virtua.tech/slides/graphql-distilled-2026/)                                               |
-| Blending Product Thinking With Architecture | Joel Tosi                                  | [PDF](2026-02-26/Blending_Product_Thinking_With_Architecture-Joel_Tosi.pdf)                             |
-| Kubernetes on a Phone | Johannes Bechberger                        | [PDF](2026-02-26/kubernetes-johannes_bechberger.pdf)                                                    |
-| Avoiding Déjà Vu: Building Resilient APIs with Idempotency | Paul Conroy                                | [PDF](2026-02-26/avoiding_deja_vu_building_resilient_apis_with_idempotency-paul_conroy.pdf)             |
-| What's New in ASP.NET Core 10 and Blazor 10 | Christian Wenz                             | [PDF](2026-02-26/new_in_asp.net_core_10_and_blazor_10-christian_wenz.pdf)                               |
-| From Address to Dashboard: Weather History at Scale | Loïc Tréhin                                | [PDF](2026-02-26/from_address_to_dashboard_weather_history_at_scale-loic_trehin.pdf)                    |
-| ASP.NET Core Authentication Explained | Wesley Cabus                               | [PDF](2026-02-26/asp_net_core_authentication_explained-wesley_cabus.pdf)                                |
-| Rising After the Fall: Engineering Your Career Comeback | Kevin Goldsmith                            | [Slides (PDF)](2026-02-26//Rising_After_the_Fall_Engineering_Your_Career_Comeback-Kevin_Goldsmith.pdf)  |
-| Building PHP Applications with the Symfony Framework in 2026 | David Buchmann                             | [HTML](2026-02-26/david-buchmann-building-php-symfony.html)                                             |
-| Ramping up on Llama Stack for developing AI applications | Michael Dawson                             | [PDF](2026-02-26/Ramping_up_on_Llama_Stack_for_developing_AI_applications-michael_dawson.pdf)           |
-| Building a supply chain attack with .NET and NuGet | Maarten Balliauw                           | [PDF](2026-02-26/supplychain_maarten-balliauw.pdf)                                                      |          
-| OpenTelemetry & Spring Boot | Xavier Bouclet                             | [PDF](2026-02-26/opentelemetry-&-Spring-Boot.pdf)                                                       |
-| SQLite: more powerful than you think | Mikaël Francoeur                           | [PDF](2026-02-26/Mikael_Francoeur_SQLite.pdf)                                                           |
-| Real-time streaming showdown | Sherif Behna                               | [PDF](2026-02-26/streaming_spark_flink-sherif_behna.pdf)                                                |
-| AI Assemble! Build your own private Development Team | Heath Kesler                               | [PDF](2026-02-26/AI_Assemble_Build_your_own_private_Development_Team-Heath_Kesler.pdf)                  |
+| Presentation Title | Speaker Name                               | Content                                                                                                  |
+|--------------------|--------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| /^[Rr]eg(ular\s)?[Ee]x(p\|pressions?)?$/ | [Jordan Kasper](https://jordankasper.com/) | [pdf](2026-02-26/Regular_Expressions-Jordan_Kasper.pdf)                                                  |
+| From Zero to Emulator CHIP8 and the Art of Abstraction | David Guida                                | [PDF](2026-02-26/chip8-emulation.pdf)                                                                    |
+| GraphQL Distilled | Kito D. Mann                               | [PDF](https://virtua.tech/slides/graphql-distilled-2026/)                                                |
+| Blending Product Thinking With Architecture | Joel Tosi                                  | [PDF](2026-02-26/Blending_Product_Thinking_With_Architecture-Joel_Tosi.pdf)                              |
+| Kubernetes on a Phone | Johannes Bechberger                        | [PDF](2026-02-26/kubernetes-johannes_bechberger.pdf)                                                     |
+| Avoiding Déjà Vu: Building Resilient APIs with Idempotency | Paul Conroy                                | [PDF](2026-02-26/avoiding_deja_vu_building_resilient_apis_with_idempotency-paul_conroy.pdf)              |
+| What's New in ASP.NET Core 10 and Blazor 10 | Christian Wenz                             | [PDF](2026-02-26/new_in_asp.net_core_10_and_blazor_10-christian_wenz.pdf)                                |
+| From Address to Dashboard: Weather History at Scale | Loïc Tréhin                                | [PDF](2026-02-26/from_address_to_dashboard_weather_history_at_scale-loic_trehin.pdf)                     |
+| ASP.NET Core Authentication Explained | Wesley Cabus                               | [PDF](2026-02-26/asp_net_core_authentication_explained-wesley_cabus.pdf)                                 |
+| Rising After the Fall: Engineering Your Career Comeback | Kevin Goldsmith                            | [Slides (PDF)](2026-02-26//Rising_After_the_Fall_Engineering_Your_Career_Comeback-Kevin_Goldsmith.pdf)   |
+| Building PHP Applications with the Symfony Framework in 2026 | David Buchmann                             | [HTML](2026-02-26/david-buchmann-building-php-symfony.html)                                              |
+| Ramping up on Llama Stack for developing AI applications | Michael Dawson                             | [PDF](2026-02-26/Ramping_up_on_Llama_Stack_for_developing_AI_applications-michael_dawson.pdf)            |
+| Building a supply chain attack with .NET and NuGet | Maarten Balliauw                           | [PDF](2026-02-26/supplychain_maarten-balliauw.pdf)                                                       |          
+| OpenTelemetry & Spring Boot | Xavier Bouclet                             | [PDF](2026-02-26/opentelemetry-&-Spring-Boot.pdf)                                                        |
+| SQLite: more powerful than you think | Mikaël Francoeur                           | [PDF](2026-02-26/Mikael_Francoeur_SQLite.pdf)                                                            |
+| Real-time streaming showdown | Sherif Behna                               | [PDF](2026-02-26/streaming_spark_flink-sherif_behna.pdf)                                                 |
+| AI Assemble! Build your own private Development Team | Heath Kesler                               | [PDF](2026-02-26/AI_Assemble_Build_your_own_private_Development_Team-Heath_Kesler.pdf)                   |
 | From the Crypt to the Code | Ramona Schwering                           | [PDF](2026-02-26/crypt_to_code-ramona_schwering.pdf),[GitHub](https://github.com/leichteckig/login-a11y) |
 
 ## February 27
@@ -71,6 +71,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Becoming a Tanstack developer | Guy Nesher | [Slides (PDF)](2026-02-27/becoming_a_tanstack_developer.pdf) |
 | Mental Models and Heuristics | Marc-Antoine Aubé | [Slides](https://speakerdeck.com/marcaube/mental-models-and-heuristics) |
 | Gitting More Out Of Git | [Jordan Kasper](https://jordankasper.com/) | [pdf](2026-02-27/Gitting_More_Out_Of_Git-Jordan_Kasper.pdf) |
+| Java Streams and Caffeine Dreams | Mikaël Francoeur                           | [PDF](2026-02-27/Mikael_Francoeur_Streams.pdf)                                                           |
 | Coding C# with C# | AL Rodriguez | [Slides (PDF)](2026-02-27/coding_csharp_with_csharp-al-rodriguez.pdf) |
 | Découverte des services web avec Rust et Axum| Francis Lavoie| [Slides](2026-02-27/decouverte_rust_axum-Francis_Lavoie.pdf) [Demo/Project](https://gitlab.com/francis_l_projects/rustaxum-starter) |
 | Slack Messaging | Gerard Gallant | [PDF](2026-02-27/Slack_Messaging-Gerard-Gallant.pdf), [notes and code](2026-02-27/Slack_Messaging-Gerard-Gallant.zip) |
