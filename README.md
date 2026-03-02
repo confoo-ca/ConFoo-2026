@@ -78,3 +78,4 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Slack Messaging | Gerard Gallant | [PDF](2026-02-27/Slack_Messaging-Gerard-Gallant.pdf), [notes and code](2026-02-27/Slack_Messaging-Gerard-Gallant.zip) |
 | La qualité des données, un objectif atteignable? | Sherif Behna | [PDF](2026-02-27/qualite_donnees-sherif_behna.pdf) |
 | Event Sourcing without Dogma | Ralf Westphal | [PDF with link to whiteboard](2026-02-27/Event_Sourcing_without_dogma-Ralf_Westphal.pdf) |
+| LLM Benchmarks | Justine Gehring | [PDF](2026-02-27/llm_benchmarks-justine_gehring.pdf) |
