@@ -88,3 +88,4 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Building Agentic Research Assistants to Search Online for Us | Frank Boucher | [PDF](2026-02-27/building_agentic_research_assistants_to_search_online_for_us-frank_boucher.pdf) , [GitHub](https://github.com/reka-ai/api-examples-dotnet/blob/main/event-finder/README.md) |
 | Developers should choose team structure, not managers | Louis Beaudoin-Allaire | [PDF](2026-02-27/developers_should_choose_team_structure-louis_beaudoin_allaire.pdf) |
 | Practical LLM Use Cases for Security | [Jonathan Marcil](https://about.jonathanmarcil.ca/) | [PDF](2026-02-27/Practical_LLM_Use_Cases_for_Security-Jonathan_Marcil.pdf) |
+| OAuth2, An Implementation | Martin Legris | [PDF](2026-02-27/oauth2_an_implementation_-_martin_legris.pdf) |
