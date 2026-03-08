@@ -35,6 +35,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | The cake is a lie... and so is your login's accessibility | Ramona Schwering | [PDF](2026-02-25/cake_is_a_lie-ramona_schwering.pdf),[GitHub](https://github.com/leichteckig/login-a11y) |
 | From Dev to Lead: Guiding Without Managing | [Erik Beaulieu](https://www.linkedin.com/in/erik-beaulieu/) | [PDF](2026-02-25/Dev-To-Lead_Guiding-Without-Managing_ErikBeaulieu.pdf) |
 | 17 Things Developers Need to Know About Databases | Peter Zaitsev | [PDF](2026-02-25/17_things_developers_need_to_know_about_databases-peter_zaitsev.pdf) |
+| The Fellowship of Twig | Stephan Hochdörfer | [PDF](2026-02-25/the_fellowship_of_twig-stephan_hochdoerfer.pdf) |
 
 ## February 26
 
@@ -65,6 +66,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Full Stack AI Security | [Jonathan Marcil](https://about.jonathanmarcil.ca/) | [PDF](2026-02-26/Full_Stack_AI_Security-Jonathan_Marcil.pdf) |
 | How we failed at Event Sourcing | Louis Beaudoin-Allaire | [PDF](2026-02-26/how_we_failed_at_event_sourcing-louis_beaudoin_allaire.pdf) |
 | Simplifying Observability | Peter Zaitsev | [PDF](2026-02-26/simplifying_observability-peter_zaitsev.pdf) |
+| Enhancing your customers' search experience with Gally | Stephan Hochdörfer | [PDF](2026-02-26/enhancing_your_customers_search_experience_with_gally-stephan_hochdoerfer.pdf) |
 
 ## February 27
 
@@ -89,3 +91,4 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Building Agentic Research Assistants to Search Online for Us | Frank Boucher | [PDF](2026-02-27/building_agentic_research_assistants_to_search_online_for_us-frank_boucher.pdf) , [GitHub](https://github.com/reka-ai/api-examples-dotnet/blob/main/event-finder/README.md) |
 | Developers should choose team structure, not managers | Louis Beaudoin-Allaire | [PDF](2026-02-27/developers_should_choose_team_structure-louis_beaudoin_allaire.pdf) |
 | Practical LLM Use Cases for Security | [Jonathan Marcil](https://about.jonathanmarcil.ca/) | [PDF](2026-02-27/Practical_LLM_Use_Cases_for_Security-Jonathan_Marcil.pdf) |
+| OAuth2, An Implementation | Martin Legris | [PDF](2026-02-27/oauth2_an_implementation_-_martin_legris.pdf) |
