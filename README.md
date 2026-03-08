@@ -68,7 +68,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | INTL: The best browser API you're not using | Kilian Valkhof | [PDF](2026-02-26/INTL_the_best_browser_api_youre_not_using-Kilian_Valkhof.pdf) |
 | Simplifying Observability | Peter Zaitsev | [PDF](2026-02-26/simplifying_observability-peter_zaitsev.pdf) |
 | Enhancing your customers' search experience with Gally | Stephan Hochdörfer | [PDF](2026-02-26/enhancing_your_customers_search_experience_with_gally-stephan_hochdoerfer.pdf) |
-| SQLite: more powerful than you think | Mikaël Francoeur  | [PDF](2026-02-27/Mikael_Francoeur_SQLite.pdf)|
+| SQLite: more powerful than you think | Mikaël Francoeur  | [PDF](2026-02-26/Mikael_Francoeur_SQLite.pdf)|
 
 
 ## February 27
