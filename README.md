@@ -34,6 +34,8 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Learn to develop at WARP speed! | Heath Kesler | [PDF](2026-02-25/Learn_to_Develop_at_WARP_Speed-Heath_Kesler.pdf) |
 | The cake is a lie... and so is your login's accessibility | Ramona Schwering | [PDF](2026-02-25/cake_is_a_lie-ramona_schwering.pdf),[GitHub](https://github.com/leichteckig/login-a11y) |
 | From Dev to Lead: Guiding Without Managing | [Erik Beaulieu](https://www.linkedin.com/in/erik-beaulieu/) | [PDF](2026-02-25/Dev-To-Lead_Guiding-Without-Managing_ErikBeaulieu.pdf) |
+| 17 Things Developers Need to Know About Databases | Peter Zaitsev | [PDF](2026-02-25/17_things_developers_need_to_know_about_databases-peter_zaitsev.pdf) |
+| The Fellowship of Twig | Stephan Hochdörfer | [PDF](2026-02-25/the_fellowship_of_twig-stephan_hochdoerfer.pdf) |
 
 ## February 26
 
@@ -64,7 +66,8 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Full Stack AI Security | [Jonathan Marcil](https://about.jonathanmarcil.ca/) | [PDF](2026-02-26/Full_Stack_AI_Security-Jonathan_Marcil.pdf) |
 | How we failed at Event Sourcing | Louis Beaudoin-Allaire | [PDF](2026-02-26/how_we_failed_at_event_sourcing-louis_beaudoin_allaire.pdf) |
 | INTL: The best browser API you're not using | Kilian Valkhof | [PDF](2026-02-26/INTL_the_best_browser_api_youre_not_using-Kilian_Valkhof.pdf) |
-
+| Simplifying Observability | Peter Zaitsev | [PDF](2026-02-26/simplifying_observability-peter_zaitsev.pdf) |
+| Enhancing your customers' search experience with Gally | Stephan Hochdörfer | [PDF](2026-02-26/enhancing_your_customers_search_experience_with_gally-stephan_hochdoerfer.pdf) |
 
 ## February 27
 
@@ -90,3 +93,4 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Developers should choose team structure, not managers | Louis Beaudoin-Allaire | [PDF](2026-02-27/developers_should_choose_team_structure-louis_beaudoin_allaire.pdf) |
 | Practical LLM Use Cases for Security | [Jonathan Marcil](https://about.jonathanmarcil.ca/) | [PDF](2026-02-27/Practical_LLM_Use_Cases_for_Security-Jonathan_Marcil.pdf) |
 | Programming principles for (self-taught) front-end developers | Kilian Valkhof | [PDF](2026-02-27/Programming_principles_for_(self-taught)_front-end_developers-Kilian_Valkhof.pdf) |
+| OAuth2, An Implementation | Martin Legris | [PDF](2026-02-27/oauth2_an_implementation_-_martin_legris.pdf) |
