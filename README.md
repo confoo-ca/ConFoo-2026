@@ -36,6 +36,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | From Dev to Lead: Guiding Without Managing | [Erik Beaulieu](https://www.linkedin.com/in/erik-beaulieu/) | [PDF](2026-02-25/Dev-To-Lead_Guiding-Without-Managing_ErikBeaulieu.pdf) |
 | 17 Things Developers Need to Know About Databases | Peter Zaitsev | [PDF](2026-02-25/17_things_developers_need_to_know_about_databases-peter_zaitsev.pdf) |
 | The Fellowship of Twig | Stephan Hochdörfer | [PDF](2026-02-25/the_fellowship_of_twig-stephan_hochdoerfer.pdf) |
+| Vulnerability to Victory: Mastering the CVE Lifecycle for Java Developers | Anthony Dahanne | [PDF](2026-02-25/Vulnerability%20to%20Victory_%20Mastering%20the%20CVE%20Lifecycle%20for%20Java%20Developers%20-%20Confoo%202026.pdf) |
 
 ## February 26
 
