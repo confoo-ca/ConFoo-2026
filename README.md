@@ -37,6 +37,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | 17 Things Developers Need to Know About Databases | Peter Zaitsev | [PDF](2026-02-25/17_things_developers_need_to_know_about_databases-peter_zaitsev.pdf) |
 | The Fellowship of Twig | Stephan Hochdörfer | [PDF](2026-02-25/the_fellowship_of_twig-stephan_hochdoerfer.pdf) |
 | Vulnerability to Victory: Mastering the CVE Lifecycle for Java Developers | Anthony Dahanne | [PDF](2026-02-25/Vulnerability%20to%20Victory_%20Mastering%20the%20CVE%20Lifecycle%20for%20Java%20Developers%20-%20Confoo%202026.pdf) |
+| Intro to Rust for Experienced Software Developers | Daniel Scherzer | [PDF](2026-02-25/20260225%20ConFoo%20Rust%20presentation.pdf) |
 
 ## February 26
 
@@ -72,6 +73,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Enhancing your customers' search experience with Gally | Stephan Hochdörfer | [PDF](2026-02-26/enhancing_your_customers_search_experience_with_gally-stephan_hochdoerfer.pdf) |
 | SQLite: more powerful than you think | Mikaël Francoeur  | [PDF](2026-02-26/Mikael_Francoeur_SQLite.pdf)|
 | No Frameworks for Old Devs | Simon MacDonald  | [PDF](2026-02-26/No_Frameworks_for_Old_Devs-Simon_MacDonald.pdf)|
+| PHP 8.5: New Features from the Source | Daniel Scherzer | [PDF](2026-02-26/20260226%20ConFoo%20PHP%20presentation.pdf) |
 
 
 ## February 27

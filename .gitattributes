@@ -1,0 +1,11 @@
+# Text
+*.html text eol=lf
+*.md text eol=lf
+*.svg text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
+
+# Binary
+*.pdf binary
+*.webm binary
+*.zip binary
