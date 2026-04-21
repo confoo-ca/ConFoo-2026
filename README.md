@@ -38,6 +38,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | The Fellowship of Twig | Stephan Hochdörfer | [PDF](2026-02-25/the_fellowship_of_twig-stephan_hochdoerfer.pdf) |
 | Vulnerability to Victory: Mastering the CVE Lifecycle for Java Developers | Anthony Dahanne | [PDF](2026-02-25/Vulnerability%20to%20Victory_%20Mastering%20the%20CVE%20Lifecycle%20for%20Java%20Developers%20-%20Confoo%202026.pdf) |
 | Intro to Rust for Experienced Software Developers | Daniel Scherzer | [PDF](2026-02-25/20260225%20ConFoo%20Rust%20presentation.pdf) |
+| Urban Mining - Smart Android Shipping Containers for Reuse | Etienne Caron | [PDF](2026-02-25/Urban_Mining_Smart_Android_Shipping_Containers_for_Reuse-Etienne_Caron.pdf) |
 
 ## February 26
 
@@ -103,3 +104,4 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Practical LLM Use Cases for Security | [Jonathan Marcil](https://about.jonathanmarcil.ca/) | [PDF](2026-02-27/Practical_LLM_Use_Cases_for_Security-Jonathan_Marcil.pdf) |
 | Programming principles for (self-taught) front-end developers | Kilian Valkhof | [PDF](2026-02-27/Programming_principles_for_(self-taught)_front-end_developers-Kilian_Valkhof.pdf) |
 | OAuth2, An Implementation | Martin Legris | [PDF](2026-02-27/oauth2_an_implementation_-_martin_legris.pdf) |
+| WebRTC - Realtime Glue between AI Agents and the World | Etienne Caron | [PDF](2026-02-27/WebRTC_Realtime_Glue_between_AI_Agents_and_the_World-Etienne_Caron.pdf) |
