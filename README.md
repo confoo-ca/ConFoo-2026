@@ -39,6 +39,9 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Vulnerability to Victory: Mastering the CVE Lifecycle for Java Developers | Anthony Dahanne | [PDF](2026-02-25/Vulnerability%20to%20Victory_%20Mastering%20the%20CVE%20Lifecycle%20for%20Java%20Developers%20-%20Confoo%202026.pdf) |
 | Intro to Rust for Experienced Software Developers | Daniel Scherzer | [PDF](2026-02-25/20260225%20ConFoo%20Rust%20presentation.pdf) |
 | Unveil Symfony AI | Mathieu Santostefano | [PDF](2026-02-25/unveil_symfony_ai-mathieu_santostefano.pdf) |
+| From Code to Reality: A Developer's Journey with 3D Printing | [Arvin Singla](https://www.linkedin.com/in/arvinsingla/) | [PDF](2026-02-25/from_code_to_reality_a_developers_journey_with_3d_printing-arvin_singla.pdf) |
+| Urban Mining - Smart Android Shipping Containers for Reuse | Etienne Caron | [PDF](2026-02-25/Urban_Mining_Smart_Android_Shipping_Containers_for_Reuse-Etienne_Caron.pdf) |
+
 
 ## February 26
 
@@ -75,6 +78,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | SQLite: more powerful than you think | Mikaël Francoeur  | [PDF](2026-02-26/Mikael_Francoeur_SQLite.pdf)|
 | No Frameworks for Old Devs | Simon MacDonald  | [PDF](2026-02-26/No_Frameworks_for_Old_Devs-Simon_MacDonald.pdf)|
 | PHP 8.5: New Features from the Source | Daniel Scherzer | [PDF](2026-02-26/20260226%20ConFoo%20PHP%20presentation.pdf) |
+| Building a 10-Foot Experience: React Native for TV | [Arvin Singla](https://www.linkedin.com/in/arvinsingla/) | [PDF](2026-02-26/building_a_10_foot_experience_react_native_for_tv-arvin_singla.pdf) |
 
 
 ## February 27
@@ -105,3 +109,9 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Programming principles for (self-taught) front-end developers | Kilian Valkhof | [PDF](2026-02-27/Programming_principles_for_(self-taught)_front-end_developers-Kilian_Valkhof.pdf)                                                                                       |
 | OAuth2, An Implementation | Martin Legris | [PDF](2026-02-27/oauth2_an_implementation_-_martin_legris.pdf)                                                                                                                           |
 | API Secured, the modern way | Mathieu Santostefano | [PDF](2026-02-27/api_secured_the_modern_way-mathieu_santostefano.pdf)                                                                                                                       |
+| Developers should choose team structure, not managers | Louis Beaudoin-Allaire | [PDF](2026-02-27/developers_should_choose_team_structure-louis_beaudoin_allaire.pdf) |
+| Practical LLM Use Cases for Security | [Jonathan Marcil](https://about.jonathanmarcil.ca/) | [PDF](2026-02-27/Practical_LLM_Use_Cases_for_Security-Jonathan_Marcil.pdf) |
+| Programming principles for (self-taught) front-end developers | Kilian Valkhof | [PDF](2026-02-27/Programming_principles_for_(self-taught)_front-end_developers-Kilian_Valkhof.pdf) |
+| OAuth2, An Implementation | Martin Legris | [PDF](2026-02-27/oauth2_an_implementation_-_martin_legris.pdf) |
+| WebRTC - Realtime Glue between AI Agents and the World | Etienne Caron | [PDF](2026-02-27/WebRTC_Realtime_Glue_between_AI_Agents_and_the_World-Etienne_Caron.pdf) |
+
