@@ -38,6 +38,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | The Fellowship of Twig | Stephan Hochdörfer | [PDF](2026-02-25/the_fellowship_of_twig-stephan_hochdoerfer.pdf) |
 | Vulnerability to Victory: Mastering the CVE Lifecycle for Java Developers | Anthony Dahanne | [PDF](2026-02-25/Vulnerability%20to%20Victory_%20Mastering%20the%20CVE%20Lifecycle%20for%20Java%20Developers%20-%20Confoo%202026.pdf) |
 | Intro to Rust for Experienced Software Developers | Daniel Scherzer | [PDF](2026-02-25/20260225%20ConFoo%20Rust%20presentation.pdf) |
+| Unveil Symfony AI | Mathieu Santostefano | [PDF](2026-02-25/unveil_symfony_ai-mathieu_santostefano.pdf) |
 | From Code to Reality: A Developer's Journey with 3D Printing | [Arvin Singla](https://www.linkedin.com/in/arvinsingla/) | [PDF](2026-02-25/from_code_to_reality_a_developers_journey_with_3d_printing-arvin_singla.pdf) |
 | Urban Mining - Smart Android Shipping Containers for Reuse | Etienne Caron | [PDF](2026-02-25/Urban_Mining_Smart_Android_Shipping_Containers_for_Reuse-Etienne_Caron.pdf) |
 
@@ -82,29 +83,35 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 
 ## February 27
 
-| Presentation Title | Speaker Name | Content |
+| Presentation Title | Speaker Name | Content                                                                                                                                                                                  |
 | ------------------ | ------------ | ------- |
-| Human Intelligence vs Artificial Intelligence | [Tamires Marcal](https://tamiresmarcal.github.io/) | [PDF](2026-02-27/Human_Intelligence_vs_Artificial_Intelligence-Tamires_Marcal.pdf) |
-| A web for anyone, anywhere, anytime | Rowdy Rabouw | [Slides (PDF)](2026-02-27/A_web_for_anyone_anywhere_anytime_Rowdy_Rabouw.pdf) |
-| Tailwind CSS - Styliser sans devenir fou | Mathys Deshaies | [PDF](2026-02-27/tailwind_css_styliser_sans_devenir_fou-mathys_deshaies.pdf) |
-| From Mosaic to Modern: The Evolution of Web App Architectures | Kito D. Mann | [PDF](https://virtua.tech/slides/graphql-distilled-2026/) |
-| 3 Illusions in Software Delivery | Joel Tosi | [PDF](2026-02-27/3_Illusions_In_Software_Delivery-Joel_Tosi.pdf) |
-| JDK 25’s new CPU-Time Profiler | Johannes Bechberger | [PDF](2026-02-27/cpu_time_profiler-johannes_bechberger.pdf) |
-| The 2025 OWASP Top Ten | Christian Wenz | [PDF](2026-02-27/the_2025_owasp_top_ten-christian_wenz.pdf) |
-| Container Deep Dive - Namespaces, Layers, and cgroups | Daniel Mikusa | [PDF](2026-02-27/container_deep_dive_namespaces_layers_and_cgroups.pdf) & [DEMOS](https://github.com/dmikusa/container-deep-dive-slides/tree/main/demos) |
-| Becoming a Tanstack developer | Guy Nesher | [Slides (PDF)](2026-02-27/becoming_a_tanstack_developer.pdf) |
-| Mental Models and Heuristics | Marc-Antoine Aubé | [Slides](https://speakerdeck.com/marcaube/mental-models-and-heuristics) |
-| Gitting More Out Of Git | [Jordan Kasper](https://jordankasper.com/) | [pdf](2026-02-27/Gitting_More_Out_Of_Git-Jordan_Kasper.pdf) |
-| Agentic Coding: Building Features with AI Teammates | [Rida Al Barazi](https://rida.me) | [PDF](2026-02-27/agentic_coding-rida_al_barazi.pdf) |
-| Java Streams and Caffeine Dreams | Mikaël Francoeur| [PDF](2026-02-27/Mikael_Francoeur_Streams.pdf)|
-| Coding C# with C# | AL Rodriguez | [Slides (PDF)](2026-02-27/coding_csharp_with_csharp-al-rodriguez.pdf) |
-| Découverte des services web avec Rust et Axum| Francis Lavoie| [Slides](2026-02-27/decouverte_rust_axum-Francis_Lavoie.pdf) [Demo/Project](https://gitlab.com/francis_l_projects/rustaxum-starter) |
-| Slack Messaging | Gerard Gallant | [PDF](2026-02-27/Slack_Messaging-Gerard-Gallant.pdf), [notes and code](2026-02-27/Slack_Messaging-Gerard-Gallant.zip) |
-| La qualité des données, un objectif atteignable? | Sherif Behna | [PDF](2026-02-27/qualite_donnees-sherif_behna.pdf) |
-| Event Sourcing without Dogma | Ralf Westphal | [PDF with link to whiteboard](2026-02-27/Event_Sourcing_without_dogma-Ralf_Westphal.pdf) |
+| Human Intelligence vs Artificial Intelligence | [Tamires Marcal](https://tamiresmarcal.github.io/) | [PDF](2026-02-27/Human_Intelligence_vs_Artificial_Intelligence-Tamires_Marcal.pdf)                                                                                                       |
+| A web for anyone, anywhere, anytime | Rowdy Rabouw | [Slides (PDF)](2026-02-27/A_web_for_anyone_anywhere_anytime_Rowdy_Rabouw.pdf)                                                                                                            |
+| Tailwind CSS - Styliser sans devenir fou | Mathys Deshaies | [PDF](2026-02-27/tailwind_css_styliser_sans_devenir_fou-mathys_deshaies.pdf)                                                                                                             |
+| From Mosaic to Modern: The Evolution of Web App Architectures | Kito D. Mann | [PDF](https://virtua.tech/slides/graphql-distilled-2026/)                                                                                                                                |
+| 3 Illusions in Software Delivery | Joel Tosi | [PDF](2026-02-27/3_Illusions_In_Software_Delivery-Joel_Tosi.pdf)                                                                                                                         |
+| JDK 25’s new CPU-Time Profiler | Johannes Bechberger | [PDF](2026-02-27/cpu_time_profiler-johannes_bechberger.pdf)                                                                                                                              |
+| The 2025 OWASP Top Ten | Christian Wenz | [PDF](2026-02-27/the_2025_owasp_top_ten-christian_wenz.pdf)                                                                                                                              |
+| Container Deep Dive - Namespaces, Layers, and cgroups | Daniel Mikusa | [PDF](2026-02-27/container_deep_dive_namespaces_layers_and_cgroups.pdf) & [DEMOS](https://github.com/dmikusa/container-deep-dive-slides/tree/main/demos)                                 |
+| Becoming a Tanstack developer | Guy Nesher | [Slides (PDF)](2026-02-27/becoming_a_tanstack_developer.pdf)                                                                                                                             |
+| Mental Models and Heuristics | Marc-Antoine Aubé | [Slides](https://speakerdeck.com/marcaube/mental-models-and-heuristics)                                                                                                                  |
+| Gitting More Out Of Git | [Jordan Kasper](https://jordankasper.com/) | [pdf](2026-02-27/Gitting_More_Out_Of_Git-Jordan_Kasper.pdf)                                                                                                                              |
+| Agentic Coding: Building Features with AI Teammates | [Rida Al Barazi](https://rida.me) | [PDF](2026-02-27/agentic_coding-rida_al_barazi.pdf)                                                                                                                                      |
+| Java Streams and Caffeine Dreams | Mikaël Francoeur| [PDF](2026-02-27/Mikael_Francoeur_Streams.pdf)                                                                                                                                           |
+| Coding C# with C# | AL Rodriguez | [Slides (PDF)](2026-02-27/coding_csharp_with_csharp-al-rodriguez.pdf)                                                                                                                    |
+| Découverte des services web avec Rust et Axum| Francis Lavoie| [Slides](2026-02-27/decouverte_rust_axum-Francis_Lavoie.pdf) [Demo/Project](https://gitlab.com/francis_l_projects/rustaxum-starter)                                                      |
+| Slack Messaging | Gerard Gallant | [PDF](2026-02-27/Slack_Messaging-Gerard-Gallant.pdf), [notes and code](2026-02-27/Slack_Messaging-Gerard-Gallant.zip)                                                                    |
+| La qualité des données, un objectif atteignable? | Sherif Behna | [PDF](2026-02-27/qualite_donnees-sherif_behna.pdf)                                                                                                                                       |
+| Event Sourcing without Dogma | Ralf Westphal | [PDF with link to whiteboard](2026-02-27/Event_Sourcing_without_dogma-Ralf_Westphal.pdf)                                                                                                 |
 | Building Agentic Research Assistants to Search Online for Us | Frank Boucher | [PDF](2026-02-27/building_agentic_research_assistants_to_search_online_for_us-frank_boucher.pdf) , [GitHub](https://github.com/reka-ai/api-examples-dotnet/blob/main/event-finder/README.md) |
+| Developers should choose team structure, not managers | Louis Beaudoin-Allaire | [PDF](2026-02-27/developers_should_choose_team_structure-louis_beaudoin_allaire.pdf)                                                                                                     |
+| Practical LLM Use Cases for Security | [Jonathan Marcil](https://about.jonathanmarcil.ca/) | [PDF](2026-02-27/Practical_LLM_Use_Cases_for_Security-Jonathan_Marcil.pdf)                                                                                                               |
+| Programming principles for (self-taught) front-end developers | Kilian Valkhof | [PDF](2026-02-27/Programming_principles_for_(self-taught)_front-end_developers-Kilian_Valkhof.pdf)                                                                                       |
+| OAuth2, An Implementation | Martin Legris | [PDF](2026-02-27/oauth2_an_implementation_-_martin_legris.pdf)                                                                                                                           |
+| API Secured, the modern way | Mathieu Santostefano | [PDF](2026-02-27/api_secured_the_modern_way-mathieu_santostefano.pdf)                                                                                                                       |
 | Developers should choose team structure, not managers | Louis Beaudoin-Allaire | [PDF](2026-02-27/developers_should_choose_team_structure-louis_beaudoin_allaire.pdf) |
 | Practical LLM Use Cases for Security | [Jonathan Marcil](https://about.jonathanmarcil.ca/) | [PDF](2026-02-27/Practical_LLM_Use_Cases_for_Security-Jonathan_Marcil.pdf) |
 | Programming principles for (self-taught) front-end developers | Kilian Valkhof | [PDF](2026-02-27/Programming_principles_for_(self-taught)_front-end_developers-Kilian_Valkhof.pdf) |
 | OAuth2, An Implementation | Martin Legris | [PDF](2026-02-27/oauth2_an_implementation_-_martin_legris.pdf) |
 | WebRTC - Realtime Glue between AI Agents and the World | Etienne Caron | [PDF](2026-02-27/WebRTC_Realtime_Glue_between_AI_Agents_and_the_World-Etienne_Caron.pdf) |
+
